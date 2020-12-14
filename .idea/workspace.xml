@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/install_docker.yml" beforeDir="false" afterPath="$PROJECT_DIR$/install_docker.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LES_PLAYBOOKS.md" beforeDir="false" afterPath="$PROJECT_DIR$/LES_PLAYBOOKS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ansible-dynamic-inventory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../master-afip/ansible-examples" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -190,7 +191,8 @@
     <MESSAGE value="minor changes" />
     <MESSAGE value="Added more comments" />
     <MESSAGE value="Created install_docker playbook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created install_docker playbook" />
+    <MESSAGE value="Set become true for setup docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set become true for setup docker" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4272" y="163" key="#Deployment" timestamp="1606384371908">
@@ -201,21 +203,21 @@
       <screen x="3840" y="0" width="1680" height="1010" />
     </state>
     <state x="4256" y="150" key="#SSH_Configurations/0.0.1920.1040/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1606384297573" />
-    <state x="4305" y="73" key="CommitChangelistDialog2" timestamp="1606475497615">
+    <state x="4305" y="73" key="CommitChangelistDialog2" timestamp="1606475976696">
       <screen x="3840" y="0" width="1680" height="1010" />
     </state>
-    <state x="4305" y="73" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1606475497615" />
+    <state x="4305" y="73" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1606475976696" />
     <state x="3940" y="109" width="1174" height="780" key="DiffContextDialog" timestamp="1606381607439">
       <screen x="3840" y="0" width="1680" height="1010" />
     </state>
     <state x="3940" y="109" width="1174" height="780" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1606381607439" />
-    <state x="4460" y="260" key="FileChooserDialogImpl" timestamp="1606389183820">
+    <state x="4460" y="260" key="FileChooserDialogImpl" timestamp="1607526594874">
       <screen x="3840" y="0" width="1680" height="1010" />
     </state>
-    <state x="4460" y="260" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1606389183820" />
-    <state x="4272" y="237" key="Vcs.Push.Dialog.v2" timestamp="1606475499773">
+    <state x="4460" y="260" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1607526594874" />
+    <state x="4272" y="237" key="Vcs.Push.Dialog.v2" timestamp="1606475978917">
       <screen x="3840" y="0" width="1680" height="1010" />
     </state>
-    <state x="4272" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1606475499773" />
+    <state x="4272" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1606475978917" />
   </component>
 </project>
